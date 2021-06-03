@@ -3,7 +3,7 @@
 I just finished my undergraduate studies at University of Toronto. A full-stack developer who loves to create software for others to enjoy. I love to develop innovative solutions to solve problems. 
 
   - 💻 I’m currently working on Falcon, eccomerce automation software
-  - 🔭 I’m currently learning Ruby and Rails and Swift
+  - 🔭 I’m currently learning Ruby on Rails and Swift
   - 👯 I’m looking to collaborate on Falcon, and the authentication/subscription aspect
   - 💬 Ask me about, suprise me !
   - 📫 How to reach me: https://www.linkedin.com/in/vaishvik-maisuria/ 
