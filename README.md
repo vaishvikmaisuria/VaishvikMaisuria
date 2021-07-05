@@ -40,3 +40,5 @@ I just finished my undergraduate studies at University of Toronto. A full-stack 
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux&logoColor=764abc)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=VaishvikMaisuria.visitor-badge)
+
+[![Vaishvik's github stats](https://github-readme-stats.vercel.app/api?username=VaishvikMaisuria)](https://github.com/anuraghazra/github-readme-stats)
