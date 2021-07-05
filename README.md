@@ -32,7 +32,6 @@ I just finished my undergraduate studies at University of Toronto. A full-stack 
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=0769ad)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Postgres SQL](https://img.shields.io/badge/-Postgres-000?&logo=postgresql&logoColor=1572B6)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
@@ -40,3 +39,4 @@ I just finished my undergraduate studies at University of Toronto. A full-stack 
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux&logoColor=764abc)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=VaishvikMaisuria.visitor-badge)
