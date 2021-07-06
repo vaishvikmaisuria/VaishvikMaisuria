@@ -1,4 +1,4 @@
-### Hi there 👋  I'm Vaishvik, You must be Viewer # ![visitors](https://visitor-badge.glitch.me/badge?page_id=VaishvikMaisuria.visitor-badge), it's a pleasure to meet you!
+### Hi there 👋 I'm Vaishvik, You must be Viewer # ![visitors](https://visitor-badge.glitch.me/badge?page_id=VaishvikMaisuria.visitor-badge), it's a pleasure to meet you!
 
 I just finished my HBSc Computer Science Specialist and Mathematics Minor at University of Toronto. A full-stack developer who loves to create software for others to enjoy. I love to develop innovative solutions to solve problems. 
 
@@ -8,7 +8,7 @@ I just finished my HBSc Computer Science Specialist and Mathematics Minor at Uni
   - 😄 Pronouns: he/him/his
   - ⚡ Fun fact: I like to Code, Basketball, Investing and Chess.  
 
-## Languages 
+## 👨‍💻 Languages 
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -21,7 +21,7 @@ I just finished my HBSc Computer Science Specialist and Mathematics Minor at Uni
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 
-## Technologies and Tools
+## 🛠 Technologies and Tools 
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
@@ -44,8 +44,10 @@ I just finished my HBSc Computer Science Specialist and Mathematics Minor at Uni
 
 ## 🤝🏻 Lets get in touch! 📫
 
-<a href="mailto:vaishvik.maisuria@gmail.com"><img src="https://img.shields.io/badge/-vaishvik.maisuria@gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="http://vaishvikmaisuria.com/"><img src="https://img.shields.io/badge/-vaishvikmaisuria.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="mailto:vaishvik.maisuria@gmail.com"><img src="https://img.shields.io/badge/-vaishvik.maisuria@gmail-D14836?style=flat-square&logo=Gmail"/></a>
+<a href="http://vaishvikmaisuria.com/"><img src="https://img.shields.io/badge/-vaishvikmaisuria.com-3423A6?style=flat-square&logo=Google-Chrome"/></a>
 <a href="https://www.linkedin.com/in/vaishvik-maisuria"><img src="https://img.shields.io/badge/-Vaishvik%20Maisuria-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+
+## 💼 Github Status 
 
 [![Vaishvik's github stats](https://github-readme-stats.vercel.app/api?username=VaishvikMaisuria)](https://github.com/anuraghazra/github-readme-stats)
