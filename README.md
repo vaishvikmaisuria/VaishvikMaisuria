@@ -1,6 +1,6 @@
 ### Hi there 👋  I'm Vaishvik, You must be Viewer # ![visitors](https://visitor-badge.glitch.me/badge?page_id=VaishvikMaisuria.visitor-badge), it's a pleasure to meet you!
 
-I just finished my undergraduate studies in HBSc Computer Science Specialist and Mathematics Minor at University of Toronto. A full-stack developer who loves to create software for others to enjoy. I love to develop innovative solutions to solve problems. 
+I just finished my HBSc Computer Science Specialist and Mathematics Minor at University of Toronto. A full-stack developer who loves to create software for others to enjoy. I love to develop innovative solutions to solve problems. 
 
   - 💻 I’m currently working on Willow, investing automated assistent software
   - 🔭 I’m currently learning Ruby on Rails and Swift
