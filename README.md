@@ -2,13 +2,11 @@
 
 I just finished my HBSc Computer Science Specialist and Mathematics Minor at University of Toronto. A full-stack developer who loves to create software for others to enjoy. I love to develop innovative solutions to solve problems. 
 
-  - 💻 I’m currently working on Willow, investing automated assistent software
-  - 🔭 I’m currently learning Ruby on Rails and Swift
-  - 👯 I’m looking to collaborate on Falcon, and the authentication/subscription aspect
-  - 💬 Ask me about, suprise me !
-  - 📫 How to reach me: https://www.linkedin.com/in/vaishvik-maisuria/ 
+  - 💻 I’m currently working on Willow, an investing automated assistent software.
+  - 🔭 I’m currently learning Swift.
+  - 👯 I’m looking to collaborate on interesting projects.
   - 😄 Pronouns: he/him/his
-  - ⚡ Fun fact: I like to Code, Basketball, and Chess.  
+  - ⚡ Fun fact: I like to Code, Basketball, Investing and Chess.  
 
 ## Languages 
 
@@ -44,7 +42,7 @@ I just finished my HBSc Computer Science Specialist and Mathematics Minor at Uni
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman&logoColor=FF6C37)
 
-## 🤝🏻 Lets get in touch!
+## 🤝🏻 Lets get in touch! 📫
 
 <a href="mailto:vaishvik.maisuria@gmail.com"><img src="https://img.shields.io/badge/-vaishvik.maisuria@gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="http://vaishvikmaisuria.com/"><img src="https://img.shields.io/badge/-vaishvikmaisuria.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
