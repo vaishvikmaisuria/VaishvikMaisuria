@@ -44,8 +44,8 @@ I just finished my HBSc Computer Science Specialist and Mathematics Minor at Uni
 
 ## 🤝🏻 Lets get in touch! 📫
 
-<a href="mailto:vaishvik.maisuria@gmail.com"><img src="https://img.shields.io/badge/-vaishvik.maisuria@gmail-D14836?style=flat-square&logo=Gmail"/></a>
-<a href="http://vaishvikmaisuria.com/"><img src="https://img.shields.io/badge/-vaishvikmaisuria.com-3423A6?style=flat-square&logo=Google-Chrome"/></a>
+<a href="mailto:vaishvik.maisuria@gmail.com"><img src="https://img.shields.io/badge/-vaishvik.maisuria@gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="http://vaishvikmaisuria.com/"><img src="https://img.shields.io/badge/-vaishvikmaisuria.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/vaishvik-maisuria"><img src="https://img.shields.io/badge/-Vaishvik%20Maisuria-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
 ## 💼 Github Status 
